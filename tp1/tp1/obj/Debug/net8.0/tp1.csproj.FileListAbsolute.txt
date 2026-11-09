@@ -1,0 +1,14 @@
+C:\dotnet\tp\tp1\tp1\bin\Debug\net8.0\tp1.exe
+C:\dotnet\tp\tp1\tp1\bin\Debug\net8.0\tp1.deps.json
+C:\dotnet\tp\tp1\tp1\bin\Debug\net8.0\tp1.runtimeconfig.json
+C:\dotnet\tp\tp1\tp1\bin\Debug\net8.0\tp1.dll
+C:\dotnet\tp\tp1\tp1\bin\Debug\net8.0\tp1.pdb
+C:\dotnet\tp\tp1\tp1\obj\Debug\net8.0\tp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\tp\tp1\tp1\obj\Debug\net8.0\tp1.AssemblyInfoInputs.cache
+C:\dotnet\tp\tp1\tp1\obj\Debug\net8.0\tp1.AssemblyInfo.cs
+C:\dotnet\tp\tp1\tp1\obj\Debug\net8.0\tp1.csproj.CoreCompileInputs.cache
+C:\dotnet\tp\tp1\tp1\obj\Debug\net8.0\tp1.dll
+C:\dotnet\tp\tp1\tp1\obj\Debug\net8.0\refint\tp1.dll
+C:\dotnet\tp\tp1\tp1\obj\Debug\net8.0\tp1.pdb
+C:\dotnet\tp\tp1\tp1\obj\Debug\net8.0\tp1.genruntimeconfig.cache
+C:\dotnet\tp\tp1\tp1\obj\Debug\net8.0\ref\tp1.dll
