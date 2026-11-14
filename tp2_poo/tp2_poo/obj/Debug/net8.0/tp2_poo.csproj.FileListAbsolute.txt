@@ -1,0 +1,14 @@
+C:\dotnet\tp\tp2_poo\tp2_poo\bin\Debug\net8.0\tp2_poo.exe
+C:\dotnet\tp\tp2_poo\tp2_poo\bin\Debug\net8.0\tp2_poo.deps.json
+C:\dotnet\tp\tp2_poo\tp2_poo\bin\Debug\net8.0\tp2_poo.runtimeconfig.json
+C:\dotnet\tp\tp2_poo\tp2_poo\bin\Debug\net8.0\tp2_poo.dll
+C:\dotnet\tp\tp2_poo\tp2_poo\bin\Debug\net8.0\tp2_poo.pdb
+C:\dotnet\tp\tp2_poo\tp2_poo\obj\Debug\net8.0\tp2_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\tp\tp2_poo\tp2_poo\obj\Debug\net8.0\tp2_poo.AssemblyInfoInputs.cache
+C:\dotnet\tp\tp2_poo\tp2_poo\obj\Debug\net8.0\tp2_poo.AssemblyInfo.cs
+C:\dotnet\tp\tp2_poo\tp2_poo\obj\Debug\net8.0\tp2_poo.csproj.CoreCompileInputs.cache
+C:\dotnet\tp\tp2_poo\tp2_poo\obj\Debug\net8.0\tp2_poo.dll
+C:\dotnet\tp\tp2_poo\tp2_poo\obj\Debug\net8.0\refint\tp2_poo.dll
+C:\dotnet\tp\tp2_poo\tp2_poo\obj\Debug\net8.0\tp2_poo.pdb
+C:\dotnet\tp\tp2_poo\tp2_poo\obj\Debug\net8.0\tp2_poo.genruntimeconfig.cache
+C:\dotnet\tp\tp2_poo\tp2_poo\obj\Debug\net8.0\ref\tp2_poo.dll
